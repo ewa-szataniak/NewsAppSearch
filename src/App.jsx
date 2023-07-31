@@ -29,7 +29,7 @@ const App = () => {
   const setProgress2 = (percent) => {
     setProgress(percent)
   }
-  const apiSite = "https://news-bn.bhavinnor1.workers.dev/";
+  const apiSite = "https://news.bhavin-nor.workers.dev/";
   return (
     <>
       <BrowserRouter>
